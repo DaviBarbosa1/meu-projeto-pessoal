@@ -21,7 +21,9 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido para apresent
 📬 Contato
 
 GitHub: @DaviBarbosa1
+
 LinkedIn: https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BmxAWZYjGRamKeh1%2Fh73DNQ%3D%3D
+
 E-mail: josedavibarbosa_@hotmail.com
 
 Desenvolvido por José Davi 🚀
